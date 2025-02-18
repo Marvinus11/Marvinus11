@@ -9,8 +9,8 @@
 
 <div align="center"><br>
    <p>🍁 Técnico em Desenvolvimento de Sistemas - ETEC Antônio Furlan</p>
-   <p> 📚 Cursando CST Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul Virtual</p>
-   <p> 🎮 Hobbies: {Jogar videogame, jogar xadrez e "filosofar"}</p>
+   <p> 📚 Cursando CST Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul</p>
+   <p> 🎮 Hobbies: {Xadrez, videogame, músicas}</p>
 </div>
 
 ##
@@ -36,7 +36,12 @@
    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
   ##
