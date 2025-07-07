@@ -26,25 +26,7 @@
   
 ##
   
-<div align="center"
-   <h3>TECHS</h3>
-<div/>
-  
-<div align="center"><br>
-   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-</div>
 
-  ##
   
   
 <div align="center"> 
