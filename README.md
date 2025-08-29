@@ -8,8 +8,7 @@
 </div>
 
 <div align="center"><br>
-   <p>🍁 Técnico em Desenvolvimento de Sistemas - ETEC Antônio Furlan</p>
-   <p> 📚 Cursando CST Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul</p>
+   <p>🍁 Desenvolvedor Back end</p>
    <p> 🎮 Hobbies: {Xadrez, videogame, músicas}</p>
 </div>
 
