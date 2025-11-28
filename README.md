@@ -8,7 +8,7 @@
 </div>
 
 <div align="center"><br>
-   <p>🍁 Desenvolvedor Back end</p>
+   <p>🍁 Desenvolvedor Web Full Stack</p>
    <p> 🎮 Hobbies: {Xadrez, videogame, músicas}</p>
 </div>
 
