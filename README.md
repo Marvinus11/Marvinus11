@@ -1,58 +1,40 @@
+<br>
+<br>
+<br>
+
 <div align="center"> 
-   
-    <h1>ᴡᴇʟᴄᴏᴍᴇ!</h1>
-
-    <img src="" alt="Mascote" height="150" />
+    <img src="hk.gif" alt="Mascote" height="250" />
 </div>
 
 <div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <a href="https://github.com/Marvinus11">
-                    <img src="https://github-readme-stats.vercel.app/api?username=Marvinus11&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Marvinus11">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvinus11&layout=compact&langs_count=5&theme=dark&hide_title=true&card_height=200" alt="Top Languages" />
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Marvinus11">
-                    <img src="https://github-readme-streak-stats.demolab.com/?user=Marvinus11&theme=dark&hide_border=true&card_height=200" alt="Streak Stats" />
-                </a>
-            </td>
-        </tr>
-    </table>
+  
+  <b>`Developer Full Stack`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Vinícius Martins</b>
+  </samp>
 </div>
 
 <div align="center">
-    <a href="https://github.com/Marvinus11">
-        <img src="https://github-contributions-api.jgrac.org/v1/Marvinus11?theme=dark" alt="Contribuições Anuais" />
-    </a>
-    
-    <br/>
-    
-    <a href="https://github.com/Marvinus11">
-        <img src="https://github-readme-streak-stats.demolab.com/?user=Marvinus11&theme=dark&hide_border=true&card_height=100&date_format=jS%20M%20Y" alt="Streak Stats" />
-    </a>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marvinus11&theme=dark"/>
 </div>
 
-
-<div align="center">
-    **M** GMAIL | **📸** INSTAGRAM | **👾** REDDIT | **🎮** TWITCH | **💬** DISCORD | **🟢** WHATSAPP | **💼** LINKEDIN
-
-    <br/><br/>
-    
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ps,ai" />
-
-    <br/><br/>
-    
-    VISITS: 
-    <img src="https://komarev.com/ghpvc/?username=Marvinus11&color=blue" alt="Profile views" />
-
-    <br/>
-    
-    <small>• replit • linktr.ee • carrrd.co • notion •</small>
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
+  
+  
 </div>
+
