@@ -1,33 +1,58 @@
-<div align="center"
-   <h3>VINÍCIUS MARTINS</h3>
-<div/>
-
-
-<div align="center"><br>
-   <img width="400" height="400"  src="https://media1.giphy.com/media/ggKcYuG0MzJhOzyGCd/giphy.gif?cid=ecf05e47p3pqu7yww2j2aylvasvo47rycp0jyllbr6u6jy0c&rid=giphy.gif&ct=g"/>
-</div>
-
-<div align="center"><br>
-   <p>🍁 Desenvolvedor Web Full Stack</p>
-   <p> 🎮 Hobbies: {Xadrez, videogame, músicas}</p>
-</div>
-
-##
-
-<div align="center"
-   <h3>REDES SOCIAIS</h3>
-<div/>
-
-<div align="center" style="display: inline_block"><br>
-   <a href = "mailto:viniciusmartins01112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/marvin-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
-##
-  
-
-  
-  
 <div align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Marvinus11/count.svg"/>
+   
+    <h1>ᴡᴇʟᴄᴏᴍᴇ!</h1>
+
+    <img src="" alt="Mascote" height="150" />
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/Marvinus11">
+                    <img src="https://github-readme-stats.vercel.app/api?username=Marvinus11&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Marvinus11">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvinus11&layout=compact&langs_count=5&theme=dark&hide_title=true&card_height=200" alt="Top Languages" />
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Marvinus11">
+                    <img src="https://github-readme-streak-stats.demolab.com/?user=Marvinus11&theme=dark&hide_border=true&card_height=200" alt="Streak Stats" />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <a href="https://github.com/Marvinus11">
+        <img src="https://github-contributions-api.jgrac.org/v1/Marvinus11?theme=dark" alt="Contribuições Anuais" />
+    </a>
+    
+    <br/>
+    
+    <a href="https://github.com/Marvinus11">
+        <img src="https://github-readme-streak-stats.demolab.com/?user=Marvinus11&theme=dark&hide_border=true&card_height=100&date_format=jS%20M%20Y" alt="Streak Stats" />
+    </a>
+</div>
+
+
+<div align="center">
+    **M** GMAIL | **📸** INSTAGRAM | **👾** REDDIT | **🎮** TWITCH | **💬** DISCORD | **🟢** WHATSAPP | **💼** LINKEDIN
+
+    <br/><br/>
+    
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,react,ps,ai" />
+
+    <br/><br/>
+    
+    VISITS: 
+    <img src="https://komarev.com/ghpvc/?username=Marvinus11&color=blue" alt="Profile views" />
+
+    <br/>
+    
+    <small>• replit • linktr.ee • carrrd.co • notion •</small>
 </div>
