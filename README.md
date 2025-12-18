@@ -3,7 +3,7 @@
 <br>
 
 <div align="center"> 
-    <img src="hk.gif" alt="Mascote" height="250" />
+    <img src="rm.gif" alt="Mascote" height="250" />
 </div>
 
 <div align="center">
@@ -34,7 +34,6 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
-
 
 <br>
 <br>
